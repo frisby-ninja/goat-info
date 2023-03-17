@@ -4,6 +4,9 @@
       fabric: {
         snapshots: [
           "23w1b"
+        ],
+        releases: [
+          
         ]
       }
     }
