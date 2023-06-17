@@ -1,12 +1,12 @@
 {
-  releases: {
-    normal: {
-      fabric: {
-        snapshots: [
+  "releases": {
+    "normal": {
+      "fabric": {
+        "snapshots": [
           "23w1b"
         ],
-        releases: [
-          
+        "releases": [
+
         ]
       }
     }
